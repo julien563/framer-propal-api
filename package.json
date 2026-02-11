@@ -1,0 +1,8 @@
+{
+  "name": "framer-propal-api",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "framer-api": "latest"
+  }
+}
