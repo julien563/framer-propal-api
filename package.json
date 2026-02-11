@@ -1,8 +1,0 @@
-{
-  "name": "framer-propal-api",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-    "framer-api": "^0.0.0"
-  }
-}
